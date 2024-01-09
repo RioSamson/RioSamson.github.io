@@ -372,6 +372,10 @@ article .icon{
     border-color: rgb(163, 163, 163);
 }
 
+#projects2 {
+    position: relative;
+}
+
 /* CONTACT SECTION */
 
 #contact {
