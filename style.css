@@ -369,6 +369,10 @@ article .icon{
     border-radius: 1rem;
 }
 
+.invisible {
+    visibility: hidden;
+}
+
 .project-title {
     margin: 1rem;
     color: black;
