@@ -362,6 +362,13 @@ article .icon{
     height: 90%;
 }
 
+.video {
+    padding-top: 10%;
+    width: 100%;
+    height: 100%;
+    /* border-radius: 1rem; */
+}
+
 .project-title {
     margin: 1rem;
     color: black;
